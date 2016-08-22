@@ -41,7 +41,7 @@ Structural design patterns are design patterns that ease the design by identifyi
 Type of Structural Design Pattern:
 
 1. Adapter
-2. Bridge
+2. Bridge : Decouple the abstraction from its implementation so that they 2 can evolve independently in the future .
 3. Decorator
 4. Composite
 5. Facade
